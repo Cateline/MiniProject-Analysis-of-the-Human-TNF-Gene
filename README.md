@@ -4,7 +4,7 @@ To apply bioinformatics skills to download, analyze, and interpret the sequence 
 
 The Tumor Necrosis Factor (TNF) gene encodes a multifunctional proinflammatory cytokine that is a key regulator in immune response and inflammation. 
 
-Secreted primarily by macrophages in response to inflammatory stimuli, TNF interacts with its receptors, TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR, to influence a wide range of biological processes including cell proliferation, differentiation, apoptosis, lipid metabolism, and coagulation.
+Secreted primarily by macrophages in response to inflammatory stimuli, TNF interacts with its receptors, TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR, to influence a wide range of biological processes.
 
 TNFα can induce apoptotic or necrotic cell death in specific tumor cell lines and promote cell proliferation and differentiation under certain conditions. 
 
